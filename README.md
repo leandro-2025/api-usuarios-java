@@ -133,7 +133,8 @@ spring.datasource.password=
 
 4️⃣ Executar aplicação
 mvn spring-boot:run
-🧪 Testes
+
+# 🧪 Testes
 
 Os testes da API foram realizados utilizando:
 
