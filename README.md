@@ -6,6 +6,7 @@ O projeto foi criado com foco em aprendizado de backend, arquitetura em camadas 
 
 ---
 
+# 👨‍💻 Autor
 Desenvolvido por Leandro durante os estudos de Java e Spring Boot 🚀
 
 # 📚 Funcionalidades
@@ -91,25 +92,16 @@ Exemplo de resposta de erro
 }
 ```
 ### 🧠 Conceitos Praticados
-CRUD completo
-
-Arquitetura em camadas
-
-Repository Pattern
-
-Service Layer
-
-Tratamento global de exceções
-
-ResponseEntity
-
-Optional e orElseThrow
-
-APIs RESTful
-
-Integração com banco de dados
-
-Organização de código
+- CRUD completo
+- Arquitetura em camadas
+- Repository Pattern
+- Service Layer
+- Tratamento global de exceções
+- ResponseEntity
+- Optional e orElseThrow
+- APIs RESTful
+- Integração com banco de dados
+- Organização de código
 
 ## ▶️ Como Executar o Projeto
 
@@ -123,13 +115,13 @@ cd API-produtos-java
 
 Editar o arquivo:
 
-src/main/resources/application.properties
+- src/main/resources/application.properties
 
-Adicionar suas credenciais:
+- Adicionar suas credenciais:
 
-spring.datasource.url=
-spring.datasource.username=
-spring.datasource.password=
+- spring.datasource.url=
+- spring.datasource.username=
+- spring.datasource.password=
 
 4️⃣ Executar aplicação
 mvn spring-boot:run
@@ -138,15 +130,15 @@ mvn spring-boot:run
 
 Os testes da API foram realizados utilizando:
 
-Insomnia
+-- Insomnia
 
 # 🚀 Melhorias Futuras
-DTOs
-Bean Validation
-Criptografia de senha
-JWT Authentication
-Swagger
-Docker
-Paginação
-👨‍💻 Autor
+- DTOs
+- Bean Validation
+- Criptografia de senha
+- JWT Authentication
+- Swagger
+- Docker
+- Paginação
+
 
